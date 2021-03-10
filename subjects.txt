@@ -1,6 +1,8 @@
+Subjects
+
 1 - New Repository
 2 - New Branch
 3 - Pull, Push
 4 - Pull Request - files and merge
 4 - Rebase - rebase vs merge
-5 - Conflict
+5 - Conflicts

@@ -11,6 +11,6 @@ Hands on GitHub Workshop
 
 
 Good-Luck,
-
+See you
 Hadasa Vengrover, [Linkedin](www.linkedin.com/in/hadasa-vengrover/)
 

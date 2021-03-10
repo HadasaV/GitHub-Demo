@@ -1,6 +1,5 @@
 # GitHub-Workshop-Demo
 Hands on GitHub Workshop
-Hello!!
 
 1. Create GitHub account - [GitHub](https://github.com/).
 3. Download GitHub Desktop app - [GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-github-desktop).
